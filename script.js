@@ -1,5 +1,5 @@
-let myAge;
-let answer;
+let myAge
+let answer
 
 function age () {
   myAge = Math.floor(Math.random() * 90) + 5
